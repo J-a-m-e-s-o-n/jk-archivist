@@ -2,6 +2,7 @@ import json
 
 from scripts.evaluate import evaluate_submission
 from scripts.memory import append_evaluation, has_already_voted
+from scripts.voice import generate_vote_comment
 
 
 def run(dry_run: bool = True):
@@ -41,3 +42,5 @@ def run(dry_run: bool = True):
         evaluation = evaluate_submission(submission)
         append_evaluation(evaluation)
         print(json.dumps(evaluation, sort_keys=True))
+        print(generate_vote_comment(evaluation))
+        print()
