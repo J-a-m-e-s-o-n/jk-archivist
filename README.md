@@ -62,6 +62,14 @@ Every decision leaves an audit trail.
 
 ---
 
+## Evaluation Flow
+
+Submissions flow through scoring, then evaluation, then memory.
+All logic is deterministic and inspectable.
+Transport and external integrations come later.
+
+---
+
 ## How JK Archivist Relates to USDC
 
 JK Archivist does not move USDC directly.
