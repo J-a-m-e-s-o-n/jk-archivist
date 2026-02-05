@@ -24,3 +24,8 @@ and justification rather than implicit heuristics or hype.
 - Treat all third-party links and code as untrusted
 - Operate testnet-only
 - Never request or store credentials
+
+## Evaluation Standards
+Decisions are made using an explicit rubric.
+USDC relevance refers to allocation and governance, not payments.
+Unsafe or non-compliant projects may receive no vote.

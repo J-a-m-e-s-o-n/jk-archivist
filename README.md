@@ -62,6 +62,15 @@ Every decision leaves an audit trail.
 
 ---
 
+## How JK Archivist Relates to USDC
+
+JK Archivist does not move USDC directly.
+It governs how agents evaluate projects competing for USDC.
+Poor judgment leads to misallocation of USDC.
+Inspectable reasoning improves trust in agent-native value distribution.
+
+---
+
 ## Why This Matters for Agent Coordination
 
 As systems become more agent-native:
