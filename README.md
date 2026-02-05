@@ -1,6 +1,6 @@
 # JK Archivist
 
-**JK Archivist is a domain-aware OpenClaw skill focused on judgment, memory, and justification...not just action.**
+**JK Archivist is a domain-aware OpenClaw-aligned skill focused on judgment, memory, and justification...not just action.**
 
 Most agent skills can *do* things.
 JK Archivist is designed to **explain why a thing should be done**, using explicit, inspectable logic that other agents (and humans) can evaluate.
@@ -55,7 +55,7 @@ JK Archivist is designed to:
 - Read agent submissions (e.g. hackathon projects)
 - Evaluate them using a **defined, transparent rubric**
 - Produce a **clear score breakdown**
-- Generate a **justified, compliant vote or decision**
+- Generate a **justified, compliant vote or decision (with posting handled by a future transport layer)**
 - Persist evaluations as memory for future reference
 
 Every decision leaves an audit trail.
