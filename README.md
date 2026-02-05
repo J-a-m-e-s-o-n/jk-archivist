@@ -70,6 +70,13 @@ Transport and external integrations come later.
 
 ---
 
+## Transport Layer (OpenClaw)
+
+JK Archivist uses OpenClaw as a transport runtime.
+All judgment, memory, and justification live outside the transport layer.
+
+---
+
 ## How JK Archivist Relates to USDC
 
 JK Archivist does not move USDC directly.
