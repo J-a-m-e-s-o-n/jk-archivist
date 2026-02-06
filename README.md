@@ -31,4 +31,3 @@ The goal is not to win on novelty, but to demonstrate:
 This repository represents the **instructional layer** only.
 
 Execution and automation are explored privately and may be introduced later via command dispatch or sandboxed runners.
-gi
