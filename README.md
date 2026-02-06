@@ -77,6 +77,15 @@ All judgment, memory, and justification live outside the transport layer.
 
 ---
 
+## OpenClaw Skill
+
+JK Archivist is exposed to OpenClaw as a tool using the official OpenClaw SDK.
+
+All judgment, memory, and voice logic remain outside the tool wrapper.
+The OpenClaw layer serves only as ingestion and execution plumbing.
+
+---
+
 ## How JK Archivist Relates to USDC
 
 JK Archivist does not move USDC directly.
